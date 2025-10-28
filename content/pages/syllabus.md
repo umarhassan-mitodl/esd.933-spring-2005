@@ -3,8 +3,6 @@ content_type: page
 description: The syllabus section provides information about the course objectives,
   course reading material, class participation, teams, skill modules and graded assignments
   for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

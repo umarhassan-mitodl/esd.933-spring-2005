@@ -4,8 +4,6 @@ description: New image Upload
 file: /courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005/6352264576dfe265d2b0a7903f5969f1_esd-933s05-th.jpg
 file_size: 8454
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: The Five Step Negotiations Model. (Courtesy of Joel Cutcher-Gershenfeld.)
   credit: ''
